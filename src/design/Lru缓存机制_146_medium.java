@@ -1,3 +1,4 @@
+
 import java.util.HashMap;
 /*
  * @lc app=leetcode.cn id=146 lang=java
@@ -150,4 +151,3 @@ class LRUCache {
  * obj.put(key,value);
  */
 // @lc code=end
-
